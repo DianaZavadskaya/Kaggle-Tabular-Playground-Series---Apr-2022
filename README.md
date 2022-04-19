@@ -1,3 +1,2 @@
 # Kaggle-Tabular-Playground-Series---Apr-2022
-Kaggle  Tabular Playground Series - Apr 2022
-Notebook for Kaggle competition
+Notebook for competition Kaggle  Tabular Playground Series - Apr 2022
